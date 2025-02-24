@@ -1,0 +1,4 @@
+baseURL = 'https://quietjoy.com'
+languageCode = 'en-us'
+title = 'quietjoy'
+theme = 'PaperMod'
