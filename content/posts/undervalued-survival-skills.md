@@ -1,12 +1,20 @@
 +++
 date = '2025-03-24T18:33:47Z'
-draft = false
+draft = true
 title = 'Entrepreneurship as the most undervalued survival skill'
 +++
 
-I’ll never forget the conversation I had with fleeing Cuba. When I asked what she took with her, she replied, “Other than my clothes, my jewelry and my cookbooks.” She took her wealth and a repository of knowledge—practical tools that could help care for her family in an entirely new life. Her husband ended up basically washing to shore in Puerto Rico with no money and no connections. He started a small coffee stand that provided for his family for the next 30 years. 
+The boomer doomers have it wrong when it comes to survival skills.
 
-The boomer-doomers will fill your head with visions a rugged escape into the wilderness—armed with a rifle, a bag of beans, and a canister of propane—the reality for many that I’ve met is strikingly different. Of the people I’ve met who have fled conflict or oppressive governments, it seems they would have rather had an overseas apartment, foreign bank account and second passport rather than a rifle, beans and propane. This is in addition to the immediate need to bring home the bacon.
+Their heads are filled with visions a rugged escape into the wilderness — armed with a rifle, a bag of beans and a compass.
+
+If you ever meet someone whose fled an existential conflict that has ripped their country or region apart, the don't want a bag of dried beans.
+
+They would have rather had an overseas apartment, foreign bank account and second passport.
+
+For the vast majority of us, if the world is bad enough that the combines in Idaho are off, then 
+
+This is in addition to the immediate need to bring home the bacon.
 
 Over the past year I’ve been reflecting on how powerful a survival skill entrepreneurship is, perhaps the ultimate survival skill. I often wonder if I were to arrive in a new country with little money and few connections, would I have the resilience and creativity to build a sustainable business?
 
