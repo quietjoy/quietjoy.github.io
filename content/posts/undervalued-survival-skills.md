@@ -24,7 +24,7 @@ I once asked a woman who had fled the total collapse of her country what she bro
 
 Do any of the YouTube go-bag tutorials mention cookbooks?
 
-That same woman’s husband went on to start a small business in a brand-new country, with no connections and no money—yet that business sustained their family for years.
+That same woman’s husband went on to start a small business in a brand-new country, with no connections and almost no money—yet that business sustained their family for years.
 
 It wasn’t farming skills or an expert-level water purification setup that got them through.
 
@@ -71,7 +71,7 @@ What skills would I need?
 Here’s what I’m thinking:
 
 - **Tools**: The basic hardware and software to launch something fast  
-- **Wealth**: Accessible, portable funds to kick things off  
+- **Wealth**: Accessible, portable funds to kick things off
 - **Network**: At least a few local connections I can lean on
 - **Skills**: Things that can make money almost anywhere 
 
