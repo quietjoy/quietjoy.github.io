@@ -4,7 +4,7 @@ draft = false
 title = 'Entrepreneurship as the most undervalued survival skill'
 +++
 
-## The Boomer Doomers Have It Wrong About Survival Skills
+### The Boomer Doomers Have It Wrong About Survival Skills
 
 The average boomer doomer imagines survival as a rugged escape into the wilderness—riding out an instant, indefinite power outage, nestled safely in a bugout cabin.
 
@@ -36,7 +36,7 @@ It was:
 
 ---
 
-## Entrepreneurship Is Everywhere, All the Time
+### Entrepreneurship Is Everywhere, All the Time
 
 Even in the most communist or authoritarian countries—where profit is essentially outlawed—you’ll find people turning a profit.
 
@@ -54,7 +54,7 @@ Why? Because it doesn’t fit the usual doomsday fantasy template.
 
 ---
 
-## But Can You Prep for Extreme Entrepreneurship?
+### But Can You Prep for Extreme Entrepreneurship?
 
 Over the past year, I’ve been reflecting on how entrepreneurship might be the *ultimate* survival skill.
 
