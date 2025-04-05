@@ -2,3 +2,45 @@ baseURL = 'https://quietjoy.com'
 languageCode = 'en-us'
 title = 'quietjoy'
 theme = 'PaperMod'
+
+[homeInfoParams]
+Title = "Hi there wave"
+Content = """
+# Hi👋
+
+I enjoy working on
+
++ ☀️  open source automation and security
++ 🧠 ai training and inference from robots to customer service
++ 🤖 teleop systems for controlling many robots at once
+
+I'm always interested in collaborating with others in the same areas.
+
+🔧 I work with Python, Django, WebRTC, and low-level networking
+
+🌐 [Website](https://quietjoy.net)
+"""
+
+[[params.socialIcons]]
+name = "X"
+url = "https://twitter.com/intent/follow?screen_name=realquietjoy"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/quietjoy"
+
+[[params.socialIcons]]
+name = "Discord"
+url = "https://discord.com/users/1353181449163112488"
+
+[[params.socialIcons]]
+name = "Calendly"
+url = "https://calendly.com/quietjoy-hart/30min"
+
+[[params.socialIcons]]
+name = "SoundCloud"
+url = "https://soundcloud.com/quietjoy"
+
+[[params.socialIcons]]
+name = "YouTube"
+url = "https://www.youtube.com/channel/UCCWU1bGVsyV-Wsmi3KKEqdA"
