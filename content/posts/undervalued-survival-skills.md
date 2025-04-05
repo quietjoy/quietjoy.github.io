@@ -1,10 +1,10 @@
 +++
 date = '2025-03-24T18:33:47Z'
 draft = false
-title = 'Undervalued Survival Skills'
+title = 'Entrepreneurship as the most undervalued survival skill'
 +++
 
-I’ll never forget the conversation I had with my wife’s grandmother about fleeing Cuba. When I asked what she took with her, she replied, “Other than my clothes, my jewelry and my cookbooks.” She took her wealth and a repository of knowledge—practical tools that could help care for her family in an entirely new life. Her husband ended up basically washing to shore in Puerto Rico with no money and no connections. He started a small coffee stand that provided for his family for the next 30 years. 
+I’ll never forget the conversation I had with fleeing Cuba. When I asked what she took with her, she replied, “Other than my clothes, my jewelry and my cookbooks.” She took her wealth and a repository of knowledge—practical tools that could help care for her family in an entirely new life. Her husband ended up basically washing to shore in Puerto Rico with no money and no connections. He started a small coffee stand that provided for his family for the next 30 years. 
 
 The boomer-doomers will fill your head with visions a rugged escape into the wilderness—armed with a rifle, a bag of beans, and a canister of propane—the reality for many that I’ve met is strikingly different. Of the people I’ve met who have fled conflict or oppressive governments, it seems they would have rather had an overseas apartment, foreign bank account and second passport rather than a rifle, beans and propane. This is in addition to the immediate need to bring home the bacon.
 
